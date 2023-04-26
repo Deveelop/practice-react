@@ -1,0 +1,9 @@
+.container{
+    background: #4f005f ;
+    display: flex;
+    justify-content: space-between;
+}
+.container h2{
+    color: #fff;
+    margin: 20px;
+}

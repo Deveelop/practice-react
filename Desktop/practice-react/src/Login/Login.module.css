@@ -1,0 +1,32 @@
+.form{
+    width: 100%;
+    margin-top: 20px;
+}
+.form label{
+width: 100px;
+display: inline-block;
+margin: 0.5rem;
+font-size: large;
+font-weight: bold;
+}
+.form input{
+width: 70%;
+padding: 10px;
+border-radius: 8px;
+margin-bottom: 2rem;
+font-size: large;
+outline: none;
+}
+.form input:focus{
+    background: plum;
+}
+.form .button{
+margin-left: 150px;
+padding: 20px;
+width: 120px;
+border-radius: 12px; 
+}
+.form button{
+    width: 100%;
+    padding: 30px;
+}

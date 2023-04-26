@@ -1,0 +1,16 @@
+ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.button{
+    background: red;
+    color: white;
+    border-radius: 8px;
+}
